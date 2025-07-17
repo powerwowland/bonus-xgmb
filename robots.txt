@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bonus.xgmb.site/sitemap.xml
